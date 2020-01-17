@@ -1,2 +1,2 @@
 # snake
-application javascript
+Jeu du Snake en Javascript.
